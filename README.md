@@ -1,2 +1,2 @@
-# new_site
+# Learning git
 by asgor
