@@ -1,2 +1,2 @@
 # Learning git
-by asgor (21-10-15)
+by Ali Asgor (21-10-15)
